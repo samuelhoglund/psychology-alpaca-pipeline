@@ -3,5 +3,6 @@
 
 - The notebook was written by Samuel Höglund and Josef Khedri for their bachelor's thesis on comparing RLHF and RLAIF
   - For more information about our work, head over to https://huggingface.co/KTH/psychology-alpaca
+  - Read the paper [here](https://www.diva-portal.org/smash/record.jsf?dswid=3835&pid=diva2%3A1782683&c=2&searchType=SIMPLE&language=en&query=rlhf&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=undergraduate)!
 
 - The following code uses a forked GitHub repository originally created by user https://github.com/jackaduma
